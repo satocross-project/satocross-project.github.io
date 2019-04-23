@@ -5,4 +5,5 @@ description: Webpage for the Satocross project
 
 show_downloads: false
 show_pages: true
+show_github: false
 google_analytics:
