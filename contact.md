@@ -4,7 +4,7 @@ layout: default
 
 # Contact
 
-#### For all inquiries, contact the project coordinator, **Nikolai Kosmatov** at <nikolai.kosmatov@cea.fr>
+#### For all inquiries, contact the project coordinator, **Nicky Williams** at <nicky.williams@cea.fr>
 
 <br>
 [back](./)
