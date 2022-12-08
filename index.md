@@ -16,7 +16,7 @@ The **SATOCROSS project** (**S**upport of **A**dvanced **T**est c**O**verage **C
 
 The partners will design generic and efficient testing techniques and tools for all major testing services: test input generation, detecting polluting test objectives and test assessment. They will focus on a large class of criteria important for the industrial practice. A particular attention will be paid to the continuous development paradigm. The project will feature these tools in an integrated open-source toolkit that will be evaluated on real-life industrial code provided by the industrial partner. Finally, the project will establish industrial application guidelines that will allow practitioners to benefit from the project results.
 
-The project started in January 2019 and will finish in December 2021. It is supported jointly by **ANR** and **FNR** agencies. 
+The project started in January 2019 and finished in December 2022. It is supported jointly by **ANR** and **FNR** agencies. 
 
 <br>
 [back](./)
