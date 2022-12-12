@@ -12,6 +12,8 @@ The PathCrawler test generator:
 <br>
 [https://frama-c.com/fc-plugins/pathcrawler.html](https://frama-c.com/fc-plugins/pathcrawler.html)
 
+The MERCE automated test generation tool integrated into VS Code IDE [Proprietary]
+
 The DeltaTG automatic delta-based test generation tool:
 <br>
 [https://github.com/thierry-tct/commit_testgen_semu](https://github.com/thierry-tct/commit_testgen_semu)
